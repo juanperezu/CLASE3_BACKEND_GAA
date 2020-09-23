@@ -1,21 +1,12 @@
 [
     {
         "id": 1,
-        "title": "Una pelicula nueva",
-        "director": "Stanley Kubrick",
-        "year": "1971",
-        "duration": "2h 17m",
-        "genre": "Ciencia ficción/Crimen",
-        "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQai9TXjeYfWDDQf-INkDHmWkbaEUHs9TPy3py_XUmU_-V8uEpx"
-    },
-    {
-        "id": 2,
-        "title": "Pulp Fiction",
-        "director": "Quentin Tarantino",
-        "year": "1994",
-        "duration": "2h 58m",
-        "genre": "Crimen/Comedia",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNXausZcJhov0ejL3Qp7PUc3FPoDZMNk01JQ&usqp=CAU"
+        "title": "Modoficado uno",
+        "director": "Modificaado",
+        "year": "2011",
+        "duration": "1h 30m",
+        "genre": "Modificado|Drama",
+        "poster": "http://es.web.img3.acsta.net/"
     },
     {
         "id": 3,
@@ -43,5 +34,23 @@
         "duration": "1h 30m",
         "genre": "Drama",
         "poster": "http://es.web.img3.acsta.net/c_215_290/medias/nmedia/18/84/28/08/19734252.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Modoficado seis",
+        "director": "Modificaado",
+        "year": "2011",
+        "duration": "1h 30m",
+        "genre": "Modificado|Drama",
+        "poster": "http://es.web.img3.acsta.net/"
+    },
+    {
+        "id": 7,
+        "title": "Golpe de estaio",
+        "director": "Sergio Cabrera",
+        "year": "1998",
+        "duration": "2h 17m",
+        "genre": "DRAMA | Violencia",
+        "poster": "https://encrypted-tbn3.gstatic.com/images"
     }
 ]

@@ -9,6 +9,7 @@ app.use(express.json());// peticiones json
 
 //routes
 app.use('/api/', require('./routes/movies'));
+//app.use('/api/', require('./routes/usuario'));
 // establer mas rutas
 
 app.set("port",4001);
